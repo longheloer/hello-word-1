@@ -1,2 +1,6 @@
-# hello-word-1
-学习github
+#学习github
+##课程内容主要有
+1.课程概述
+2.什么是git
+3.国内版github
+4.网站基础介绍
